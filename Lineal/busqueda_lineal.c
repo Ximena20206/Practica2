@@ -22,8 +22,8 @@ Windows: gcc busqueda_lineal.c tiempo.c tiempo.h -o bl
 Linux:  gcc busqueda_lineal.c tiempo.c tiempo.h -o bl
 
 Ejecución:
-windows: ./bl x n numeros10millones(Desordenados).txt
-linux: ./bl x n numeros10millones(Desordenados).txt
+windows: ./bl n numeros10millones(Desordenados).txt x
+linux: ./bl n numeros10millones(Desordenados).txt x
 */
 
 #include <stdio.h>
@@ -31,7 +31,7 @@ linux: ./bl x n numeros10millones(Desordenados).txt
 #include "tiempo.h"
 
 /*
-    En la siguiente función nombrada "busqueda_lineal", se implementa un algoritmo de busqueda lineal para buscar
+    En la siguiente función nombrada "search", se implementa un algoritmo de busqueda lineal para buscar
     un número en cierta lista de n numeros
 
     Parámetros:
@@ -49,8 +49,6 @@ linux: ./bl x n numeros10millones(Desordenados).txt
         - -1: No se encuentra el número
     
 */
-
-
 int search(int arr[], int N, int x)
 {
     for (int i = 0; i < N; i++)
