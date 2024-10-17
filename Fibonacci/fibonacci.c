@@ -15,8 +15,8 @@
 	El arreglo de valores debe estar previamente ordenado para cumplir con los rangos de índices
 	Complejidad del algoritmo: O(log n)
 	
-	Compilacion: gcc fibonacci.c -o fibonacci
-	Ejecucion ./fibonacci 10000000 10millones.txt 90128
+	Compilacion(Windows/Ubuntu): gcc fibonacci.c tiempo.c tiempo.h-o fibonacci
+	Ejecucion(Windows/Ubuntu): ./fibonacci 10000000 10millones.txt 90128
 */
 //LIBRERIAS
 #include <stdio.h>
