@@ -63,12 +63,12 @@ int binarySearch(int *A, int n, int x) {
         middle = left + (right - left) / 2;
 
         // Verifica si x está en el medio
-        if (arr[middle] == x) {
+        if (A[middle] == x) {
             return middle;
         }
 
         // Si el x es mayor, ignora la mitad izquierda
-        if (arr[middle] < x) {
+        if (A[middle] < x) {
             left = middle + 1;
         }
         // Si el x es menor, ignora la mitad derecha
