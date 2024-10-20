@@ -12,6 +12,11 @@
 	
 	Programa que realiza la búsqueda del índice donde se encuentra el valor x en un arreglo de n elementos, tomado del archivo 10millones.txt
 	Donde n=10000000
+ 	para (4)
+	x = A[i]
+	donde A = [322486, 14700764, 3128036, 6337399, 61396, 10393545, 2147445644, 1295390003, 450057883, 187645041, 1980098116, 152503, 5000, 1493283650, 214826, 1843349527, 1360839354, 2109248666, 2147470852, 0]
+	y n = [1000000, 2000000, 3000000, 4000000, 5000000, 6000000, 7000000, 8000000, 9000000, 10000000]
+	Tiempo en busqueda: O(log n)
 	El arreglo de valores debe estar previamente ordenado para cumplir con los rangos de índices
 	Complejidad del algoritmo: O(log n)
 	
