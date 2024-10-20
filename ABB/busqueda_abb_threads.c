@@ -96,7 +96,6 @@ struct Node* insert(struct Node* root, int x) {
 void inorder(struct Node* root) {
     if (root != NULL) {
         inorder(root->left);
-        printf("%d ", root->key);
         inorder(root->right);
     }
 }
@@ -185,13 +184,6 @@ int main(int num_par, char **par_cad) {
     // Esperar que los threads terminen
     pthread_join(thread1, NULL);
     pthread_join(thread2, NULL);
-
-    // Evaluar si se encontró el número en alguna rama
-    if (args1.found || args2.found) {
-        printf("Si\n");
-    } else {
-        printf("No\n");
-    }
 
     // Evaluar los tiempos de ejecución
     uswtime(&utime1, &stime1, &wtime1);
