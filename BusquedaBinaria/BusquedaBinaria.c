@@ -81,7 +81,15 @@ int binarySearch(int *A, int n, int x) {
     // Si no se encontró el elemento
     return -1;
 }
-
+/*Funcion que ayuda a mostrar datos de ejecucion en SO linux. 
+    Parámtros:
+    - *A:arreglo de numeros
+    - n tamano del arreglo
+    - x: numero buscar en el arreglo
+    
+    Devuelve:
+    -r: respuesta del algoritmo binarysearch
+*/
 int func(int *A, int n, int x){
     double utime0, stime0, wtime0, utime1, stime1, wtime1; //Variables para medición de tiempos
     int i, s; //Variables para loops
@@ -153,13 +161,9 @@ int main(int num_par, char  **par_cad) {
     //*Algoritmo
     int ans;
     //ans= binarySearch(A,n,x);
-    ans= func(A,n,x);
+    func(A,n,x);
 
 
-    if(ans>=0)
-        printf("\n Numero encontrado en lugar %d", ans+1);
-    else
-        printf("\n Numero no encontrado");
 
     free(A);
     return 0;
