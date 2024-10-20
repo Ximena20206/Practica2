@@ -57,6 +57,16 @@ int search(int arr[], int N, int x)
     return -1;
 }
 
+/*Funcion que ayuda a mostrar datos de ejecucion en SO linux. 
+    Parámtros:
+    - *A:arreglo de numeros
+    - n tamano del arreglo
+    - x: numero buscar en el arreglo
+    
+    Devuelve:
+    -r: respuesta del algoritmo binarysearch
+*/
+
 int func(int *A, int n, int x){
     double utime0, stime0, wtime0, utime1, stime1, wtime1; //Variables para medición de tiempos
     int i, s; //Variables para loops

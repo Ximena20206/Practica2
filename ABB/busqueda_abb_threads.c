@@ -23,8 +23,8 @@ Windows: gcc busqueda_abb.c tiempo.c tiempo.h -o bAbb
 Linux:  gcc busqueda_abb.c tiempo.c tiempo.h -o bAbb
 
 Ejecución:
-windows: ./bAbb x n numeros10millones(Desordenados).txt
-linux: ./bAbb x n numeros10millones(Desordenados).txt
+windows: ./bAbb n numeros10millones(Desordenados).txt x
+linux: ./bAbb n numeros10millones(Desordenados).txt x
 */
 
 #include <stdio.h>
@@ -120,6 +120,16 @@ void* search_thread(void* args) {
     searchArgs->found = 0;
     return NULL;
 }
+
+/*Funcion que ayuda a mostrar datos de ejecucion en SO linux. 
+    Parámtros:
+    - *A:arreglo de numeros
+    - n tamano del arreglo
+    - x: numero buscar en el arreglo
+    
+    Devuelve:
+    -r: respuesta del algoritmo binarysearch
+*/
 
 int main(int num_par, char **par_cad) {
     // Variables

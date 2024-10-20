@@ -23,8 +23,8 @@ Windows: gcc busqueda_abb.c tiempo.c tiempo.h -o bAbb
 Linux:  gcc busqueda_abb.c tiempo.c tiempo.h -o bAbb
 
 Ejecución:
-windows: ./bAbb x n numeros10millones(Desordenados).txt
-linux: ./bAbb x n numeros10millones(Desordenados).txt
+windows: ./bAbb n numeros10millones(Desordenados).txt x
+linux: ./bAbb n numeros10millones(Desordenados).txt x
 */
 
 #include <stdio.h>
@@ -112,6 +112,16 @@ struct Node* search(struct Node* root, int key)
 
     return search(root->left, key);
 }
+
+/*Funcion que ayuda a mostrar datos de ejecucion en SO linux. 
+    Parámtros:
+    - *A:arreglo de numeros
+    - n tamano del arreglo
+    - x: numero buscar en el arreglo
+    
+    Devuelve:
+    -r: respuesta del algoritmo binarysearch
+*/
 
 char* func (struct Node* root, int key){
     double utime0, stime0, wtime0,utime1, stime1, wtime1; //Variables para medición de tiempos

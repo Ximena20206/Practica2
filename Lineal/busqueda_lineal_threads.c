@@ -22,8 +22,8 @@ Windows: gcc busqueda_lineal.c tiempo.c tiempo.h -o bl
 Linux:  gcc busqueda_lineal.c tiempo.c tiempo.h -o bl
 
 Ejecución:
-windows: ./bl x n numeros10millones(Desordenados).txt
-linux: ./bl x n numeros10millones(Desordenados).txt
+windows: ./bl n numeros10millones(Desordenados).txt x
+linux: ./bl n numeros10millones(Desordenados).txt x
 */
 
 #include <stdio.h>
@@ -83,6 +83,16 @@ void* thread_search(void* arg) {
     
     return NULL; // Si no encontró nada
 }
+
+/*Funcion que ayuda a mostrar datos de ejecucion en SO linux. 
+    Parámtros:
+    - *A:arreglo de numeros
+    - n tamano del arreglo
+    - x: numero buscar en el arreglo
+    
+    Devuelve:
+    -r: respuesta del algoritmo binarysearch
+*/
 
 int func(int *A, int n, int x) {
     double utime0, stime0, wtime0, utime1, stime1, wtime1;
