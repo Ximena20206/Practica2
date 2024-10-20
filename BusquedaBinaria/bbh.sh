@@ -67,7 +67,7 @@ gcc BusquedaBinariaHilos.c tiempo.c tiempo.h -o bbh
 ./bbh 3000000 or.txt 0 >> busquedabinariahilos.txt
 
 ./bbh 4000000 or.txt 322486 >> busquedabinariahilos.txt
-./bbh 4000000 or.txt 14700764 > busquedabinariahilos.txt
+./bbh 4000000 or.txt 14700764 >> busquedabinariahilos.txt
 ./bbh 4000000 or.txt 3128036 >> busquedabinariahilos.txt
 ./bbh 4000000 or.txt 6337399 >> busquedabinariahilos.txt
 ./bbh 4000000 or.txt 61396 >> busquedabinariahilos.txt
