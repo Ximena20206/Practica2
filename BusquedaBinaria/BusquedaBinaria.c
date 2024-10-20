@@ -19,14 +19,15 @@ Tiempo en busqueda: O(log n)
 
 Compilación
 Windows: gcc BusquedaBinaria.c tiempo.c tiempo.h -o bb
-Linux:  gcc BusquedaBinaria.c tiempo.c tiempo.h -o bh
+Linux:  gcc BusquedaBinaria.c tiempo.c tiempo.h -o bb
 
 Ejecución:
-windows: ./bh n numeros10millones(Desordenados).txt x
-linux: ./bh n numeros10millones(Desordenados).txt x
+windows: ./bb n numeros10millones(Desordenados).txt x
+linux: ./bb n numeros10millones(Desordenados).txt x
 */
 #include <stdio.h>
 #include "tiempo.h"
+#include <stdlib.h>
 
 /*
     En la siguiente función "binarySearch", se implementa la búsqueda binaria
@@ -81,7 +82,7 @@ int binarySearch(int *A, int n, int x) {
     return -1;
 }
 
-void func(int *A, int n, int x){
+int func(int *A, int n, int x){
     double utime0, stime0, wtime0, utime1, stime1, wtime1; //Variables para medición de tiempos
     int i, s; //Variables para loops
 
@@ -89,7 +90,7 @@ void func(int *A, int n, int x){
     uswtime(&utime0, &stime0, &wtime0);
 
     //Algoritmo
-    binarySearch(A,n,x);
+    int r=binarySearch(A,n,x);
 
     //Evaluar los tiempos de ejecución
     uswtime(&utime1, &stime1, &wtime1);
@@ -113,11 +114,11 @@ void func(int *A, int n, int x){
 	printf("CPU/Wall   %.10f %% \n",100.0 * (utime1 - utime0 + stime1 - stime0) / (wtime1 - wtime0));
 	printf("\n");
     printf("-------------------------------------------------------------------");
-
+    return r;
 }
 
 
-int main(int num_par, int  **par_cad) {
+int main(int num_par, char  **par_cad) {
     //Variables
     FILE *p; //apuntador para direccion de archivo
     int *A, n, i=0, x;
@@ -128,27 +129,38 @@ int main(int num_par, int  **par_cad) {
     
     // designamos tamaño del arreglo
     n=atoi(par_cad[1]);
-    A=(int*)malloc(n*sizeof(int));
+    A=malloc(n*sizeof(int));
+
+    // Designamos la variable a buscar
+    x=atoi(par_cad[3]);
 
     //Lectura del archivo
-    if(!(p=fopen(par_cad[2],"r")))//verificamos que el archivo exista
-    {
-        printf("\nError al abrir el fichero");
-        exit(1); // abandonamos el programa
+    p = fopen(par_cad[2], "r");
+    if (!p) {
+        perror("Error al abrir el archivo");
+        exit(1);
     }
-    while(!feof(p) && i<n)// llenar el arreglo mientras i < n y no haya fin de archivo
+    i = 0;
+    while(!feof(p) && i<n)// llenar el arreglo mientras i <n y no haya fin de archivo
     {
         fscanf(p, "%d", &A[i]); //leemos los numeros y guardamos en el arreglo
         i++;
     }
     fclose(p);
 
-    // Designamos la variable a buscar
-    x=atoi(par_cad[3]);
+    
     
     //*Algoritmo
-    binarySearch(A,n,x);
-    //func(A,n,x);
+    int ans;
+    //ans= binarySearch(A,n,x);
+    ans= func(A,n,x);
 
+
+    if(ans>=0)
+        printf("\n Numero encontrado en lugar %d", ans+1);
+    else
+        printf("\n Numero no encontrado");
+
+    free(A);
     return 0;
 }
