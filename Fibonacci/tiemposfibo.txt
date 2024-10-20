@@ -1,0 +1,272 @@
+BFibonacci
+
+real (Tiempo total)  0.0000009537 s
+user (Tiempo de procesamiento en CPU) 0.0000070000 s
+sys (Tiempo en acciónes de E/S)  0.0000140000 s
+CPU/Wall   2202.0096000000 % 
+
+
+real (Tiempo total)  9.5367431641e-07 s
+user (Tiempo de procesamiento en CPU) 7.0000000000e-06 s
+sys (Tiempo en acciónes de E/S)  1.4000000000e-05 s
+CPU/Wall   2202.0096000000 % 
+
+El elemento quen buscas no está contenido en el arreglo
+//////////////////////////////////////////////////////
+real (Tiempo total)  0.0000019073 s
+user (Tiempo de procesamiento en CPU) 0.0000170000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   891.2896000000 % 
+
+real (Tiempo total)  1.9073486328e-06 s
+user (Tiempo de procesamiento en CPU) 1.7000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   891.2896000000 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000009537 s
+user (Tiempo de procesamiento en CPU) 0.0000050000 s
+sys (Tiempo en acciónes de E/S)  0.0000210000 s
+CPU/Wall   2726.2975999999 % 
+
+
+real (Tiempo total)  9.5367431641e-07 s
+user (Tiempo de procesamiento en CPU) 5.0000000000e-06 s
+sys (Tiempo en acciónes de E/S)  2.1000000000e-05 s
+CPU/Wall   2726.2975999999 % 
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000021458 s
+user (Tiempo de procesamiento en CPU) 0.0000120000 s
+sys (Tiempo en acciónes de E/S)  0.0000060000 s
+CPU/Wall   838.8608000000 % 
+
+
+real (Tiempo total)  2.1457672119e-06 s
+user (Tiempo de procesamiento en CPU) 1.2000000000e-05 s
+sys (Tiempo en acciónes de E/S)  6.0000000000e-06 s
+CPU/Wall   838.8608000000 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000019073 s
+user (Tiempo de procesamiento en CPU) 0.0000220000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   1153.4336000000 % 
+
+
+real (Tiempo total)  1.9073486328e-06 s
+user (Tiempo de procesamiento en CPU) 2.2000000000e-05 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   1153.4336000000 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000019073 s
+user (Tiempo de procesamiento en CPU) 0.0000100000 s
+sys (Tiempo en acciónes de E/S)  0.0000190000 s
+CPU/Wall   1520.4352000000 % 
+
+
+real (Tiempo total)  1.9073486328e-06 s
+user (Tiempo de procesamiento en CPU) 1.0000000000e-05 s
+sys (Tiempo en acciónes de E/S)  1.9000000000e-05 s
+CPU/Wall   1520.4352000000 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000011921 s
+user (Tiempo de procesamiento en CPU) 0.0000090000 s
+sys (Tiempo en acciónes de E/S)  0.0000090000 s
+CPU/Wall   1509.9494400000 % 
+
+
+real (Tiempo total)  1.1920928955e-06 s
+user (Tiempo de procesamiento en CPU) 9.0000000000e-06 s
+sys (Tiempo en acciónes de E/S)  9.0000000000e-06 s
+CPU/Wall   1509.9494400000 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000021458 s
+user (Tiempo de procesamiento en CPU) 0.0000120000 s
+sys (Tiempo en acciónes de E/S)  0.0000060000 s
+CPU/Wall   838.8608000000 % 
+
+
+real (Tiempo total)  2.1457672119e-06 s
+user (Tiempo de procesamiento en CPU) 1.2000000000e-05 s
+sys (Tiempo en acciónes de E/S)  6.0000000000e-06 s
+CPU/Wall   838.8608000000 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000030994 s
+user (Tiempo de procesamiento en CPU) 0.0000050000 s
+sys (Tiempo en acciónes de E/S)  0.0000150000 s
+CPU/Wall   645.2775384615 % 
+
+
+real (Tiempo total)  3.0994415283e-06 s
+user (Tiempo de procesamiento en CPU) 5.0000000000e-06 s
+sys (Tiempo en acciónes de E/S)  1.5000000000e-05 s
+CPU/Wall   645.2775384615 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000028610 s
+user (Tiempo de procesamiento en CPU) 0.0000090000 s
+sys (Tiempo en acciónes de E/S)  0.0000090000 s
+CPU/Wall   629.1456000000 % 
+
+
+real (Tiempo total)  2.8610229492e-06 s
+user (Tiempo de procesamiento en CPU) 9.0000000000e-06 s
+sys (Tiempo en acciónes de E/S)  9.0000000000e-06 s
+CPU/Wall   629.1456000000 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000030994 s
+user (Tiempo de procesamiento en CPU) 0.0000150000 s
+sys (Tiempo en acciónes de E/S)  0.0000050000 s
+CPU/Wall   645.2775384616 % 
+
+
+real (Tiempo total)  3.0994415283e-06 s
+user (Tiempo de procesamiento en CPU) 1.5000000000e-05 s
+sys (Tiempo en acciónes de E/S)  5.0000000000e-06 s
+CPU/Wall   645.2775384616 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000059605 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+sys (Tiempo en acciónes de E/S)  0.0002130000 s
+CPU/Wall   3573.5470080000 % 
+
+
+real (Tiempo total)  5.9604644775e-06 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+sys (Tiempo en acciónes de E/S)  2.1300000000e-04 s
+CPU/Wall   3573.5470080000 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000038147 s
+user (Tiempo de procesamiento en CPU) 0.0000120000 s
+sys (Tiempo en acciónes de E/S)  0.0000090000 s
+CPU/Wall   550.5024000001 % 
+
+
+real (Tiempo total)  3.8146972656e-06 s
+user (Tiempo de procesamiento en CPU) 1.2000000000e-05 s
+sys (Tiempo en acciónes de E/S)  9.0000000000e-06 s
+CPU/Wall   550.5024000001 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000040531 s
+user (Tiempo de procesamiento en CPU) 0.0000150000 s
+sys (Tiempo en acciónes de E/S)  0.0000030000 s
+CPU/Wall   444.1027764706 % 
+
+
+real (Tiempo total)  4.0531158447e-06 s
+user (Tiempo de procesamiento en CPU) 1.5000000000e-05 s
+sys (Tiempo en acciónes de E/S)  3.0000000000e-06 s
+CPU/Wall   444.1027764706 % 
+
+Se encontró el elemento en el indice 27043
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000030994 s
+user (Tiempo de procesamiento en CPU) 0.0000060000 s
+sys (Tiempo en acciónes de E/S)  0.0000100000 s
+CPU/Wall   516.2220307693 % 
+
+
+real (Tiempo total)  3.0994415283e-06 s
+user (Tiempo de procesamiento en CPU) 6.0000000000e-06 s
+sys (Tiempo en acciónes de E/S)  1.0000000000e-05 s
+CPU/Wall   516.2220307693 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000030994 s
+user (Tiempo de procesamiento en CPU) 0.0000060000 s
+sys (Tiempo en acciónes de E/S)  0.0000100000 s
+CPU/Wall   516.2220307691 % 
+
+
+real (Tiempo total)  3.0994415283e-06 s
+user (Tiempo de procesamiento en CPU) 6.0000000000e-06 s
+sys (Tiempo en acciónes de E/S)  1.0000000000e-05 s
+CPU/Wall   516.2220307691 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000021458 s
+user (Tiempo de procesamiento en CPU) 0.0000160000 s
+sys (Tiempo en acciónes de E/S)  0.0000050000 s
+CPU/Wall   978.6709333333 % 
+
+
+real (Tiempo total)  2.1457672119e-06 s
+user (Tiempo de procesamiento en CPU) 1.6000000000e-05 s
+sys (Tiempo en acciónes de E/S)  5.0000000000e-06 s
+CPU/Wall   978.6709333333 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000030994 s
+user (Tiempo de procesamiento en CPU) 0.0000070000 s
+sys (Tiempo en acciónes de E/S)  0.0000090000 s
+CPU/Wall   516.2220307693 % 
+
+
+real (Tiempo total)  3.0994415283e-06 s
+user (Tiempo de procesamiento en CPU) 7.0000000000e-06 s
+sys (Tiempo en acciónes de E/S)  9.0000000000e-06 s
+CPU/Wall   516.2220307693 % 
+
+Se encontró el elemento en el indice 856649
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000011921 s
+user (Tiempo de procesamiento en CPU) 0.0000150000 s
+sys (Tiempo en acciónes de E/S)  0.0000060000 s
+CPU/Wall   1761.6076800000 % 
+
+
+real (Tiempo total)  1.1920928955e-06 s
+user (Tiempo de procesamiento en CPU) 1.5000000000e-05 s
+sys (Tiempo en acciónes de E/S)  6.0000000000e-06 s
+CPU/Wall   1761.6076800000 % 
+
+El elemento quen buscas no está contenido en el arreglo
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000040531 s
+user (Tiempo de procesamiento en CPU) 0.0000040000 s
+sys (Tiempo en acciónes de E/S)  0.0000170000 s
+CPU/Wall   518.1199058822 % 
+
+
+real (Tiempo total)  4.0531158447e-06 s
+user (Tiempo de procesamiento en CPU) 4.0000000000e-06 s
+sys (Tiempo en acciónes de E/S)  1.7000000000e-05 s
+CPU/Wall   518.1199058822 % 
+
+Se encontró el elemento en el indice 1211995
+/////////////////////////////////////////////////////
+real (Tiempo total)  0.0000040531 s
+user (Tiempo de procesamiento en CPU) 0.0000150000 s
+sys (Tiempo en acciónes de E/S)  0.0000020000 s
+CPU/Wall   419.4304000004 % 
+
+
+real (Tiempo total)  4.0531158447e-06 s
+user (Tiempo de procesamiento en CPU) 1.5000000000e-05 s
+sys (Tiempo en acciónes de E/S)  2.0000000000e-06 s
+CPU/Wall   419.4304000004 % 
+
+El elemento quen buscas no está contenido en el arreglo
