@@ -151,11 +151,20 @@ void Hilos(int *A, int x, int n){
     }
 
     if (result != -1)
-        printf("El elemento está presente en el índice %d\n", result);
+        printf("El elemento esta en el índice %d\n", result);
     else
-        printf("El elemento no está presente en el arreglo\n");
+        printf("El elemento no esta en el arreglo\n");
 }
 
+/*Funcion que ayuda a mostrar datos de ejecucion en SO linux. 
+    Parámtros:
+    - *A:arreglo de numeros
+    - n tamano del arreglo
+    - x: numero buscar en el arreglo
+    
+    Devuelve:
+    -r: respuesta del algoritmo binarysearch
+*/
 void func(int *A, int n, int x){
     double utime0, stime0, wtime0, utime1, stime1, wtime1; //Variables para medición de tiempos
     int i, s; //Variables para loops
@@ -191,7 +200,7 @@ void func(int *A, int n, int x){
 
 }
 
-int main(int num_par, int  **par_cad) {
+int main(int num_par, char  **par_cad) {
     //Variables
     FILE *p; //apuntador para direccion de archivo
     int *A, n, i=0, x;
@@ -221,8 +230,9 @@ int main(int num_par, int  **par_cad) {
     x=atoi(par_cad[3]);
     
     //*Algoritmo
-    Hilos(A,x,n);
-    //func(A,n,x);
+    //Hilos(A,x,n);
+    func(A,n,x);
 
+    free(A);
     return 0;
 }
