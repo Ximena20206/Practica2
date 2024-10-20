@@ -27,6 +27,7 @@ linux: ./bbh n numeros10millones(Desordenados).txt x
 */
 
 #include <stdio.h>
+#include <stdlib.h>
 #include <pthread.h>
 #include "tiempo.h"
 #define NUM_THREADS 2
