@@ -85,6 +85,15 @@ int fibonacciSearch(int *A, int x, int n){
     	/*Se devuelve -1 si no se encontr{o el elemento x */
     	return -1;
 }
+/*Funcion que ayuda a mostrar datos de ejecucion en SO linux. 
+    Parámtros:
+    - *A:arreglo de numeros
+    - n tamano del arreglo
+    - x: numero buscar en el arreglo
+    
+    Devuelve:
+    -r: respuesta del algoritmo binarysearch
+*/
 int func (int *A, int x, int n){	
 	
 	double utime0, stime0, wtime0,utime1, stime1, wtime1; //Variables para medición de tiempos
