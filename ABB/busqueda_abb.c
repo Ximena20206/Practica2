@@ -97,7 +97,6 @@ struct Node* insert(struct Node* root, int x)
 void inorder(struct Node* root) {
     if (root != NULL) {
         inorder(root->left);
-        printf("%d ", root->key);
         inorder(root->right);
     }
 }
