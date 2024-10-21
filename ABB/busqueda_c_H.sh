@@ -25,7 +25,7 @@ gcc -pthread busqueda_abb_threads.c tiempo.c tiempo.h -o bAbb
 ./bAbb 1000000 numeros10millones.txt 0 >> busquedaABB.txt
 
 
-echo Busqueda Lineal 2M >> busquedaABB.txt
+echo Busqueda ABB 2M >> busquedaABB.txt
 ./bAbb 2000000 numeros10millones.txt 322486 >> busquedaABB.txt
 ./bAbb 2000000 numeros10millones.txt 14700764 >> busquedaABB.txt
 ./bAbb 2000000 numeros10millones.txt 3128036 >> busquedaABB.txt
@@ -47,7 +47,7 @@ echo Busqueda Lineal 2M >> busquedaABB.txt
 ./bAbb 2000000 numeros10millones.txt 2147470852 >> busquedaABB.txt
 ./bAbb 2000000 numeros10millones.txt 0 >> busquedaABB.txt
 
-echo Busqueda Lineal 3M >> busquedaABB.txt
+echo Busqueda ABB 3M >> busquedaABB.txt
 ./bAbb 3000000 numeros10millones.txt 322486 >> busquedaABB.txt
 ./bAbb 3000000 numeros10millones.txt 14700764 >> busquedaABB.txt
 ./bAbb 3000000 numeros10millones.txt 3128036 >> busquedaABB.txt
@@ -69,7 +69,7 @@ echo Busqueda Lineal 3M >> busquedaABB.txt
 ./bAbb 3000000 numeros10millones.txt 2147470852 >> busquedaABB.txt
 ./bAbb 3000000 numeros10millones.txt 0 >> busquedaABB.txt
 
-echo Busqueda Lineal 4M >> busquedaABB.txt
+echo Busqueda ABB 4M >> busquedaABB.txt
 ./bAbb 4000000 numeros10millones.txt 322486 >> busquedaABB.txt
 ./bAbb 4000000 numeros10millones.txt 14700764 >> busquedaABB.txt
 ./bAbb 4000000 numeros10millones.txt 3128036 >> busquedaABB.txt
@@ -91,7 +91,7 @@ echo Busqueda Lineal 4M >> busquedaABB.txt
 ./bAbb 4000000 numeros10millones.txt 2147470852 >> busquedaABB.txt
 ./bAbb 4000000 numeros10millones.txt 0 >> busquedaABB.txt
 
-echo Busqueda Lineal 5M >> busquedaABB.txt
+echo Busqueda ABB 5M >> busquedaABB.txt
 ./bAbb 5000000 numeros10millones.txt 322486 >> busquedaABB.txt
 ./bAbb 5000000 numeros10millones.txt 14700764 >> busquedaABB.txt
 ./bAbb 5000000 numeros10millones.txt 3128036 >> busquedaABB.txt
@@ -113,7 +113,7 @@ echo Busqueda Lineal 5M >> busquedaABB.txt
 ./bAbb 5000000 numeros10millones.txt 2147470852 >> busquedaABB.txt
 ./bAbb 5000000 numeros10millones.txt 0 >> busquedaABB.txt
 
-echo Busqueda Lineal 6M >> busquedaABB.txt
+echo Busqueda ABB 6M >> busquedaABB.txt
 ./bAbb 6000000 numeros10millones.txt 322486 >> busquedaABB.txt
 ./bAbb 6000000 numeros10millones.txt 14700764 >> busquedaABB.txt
 ./bAbb 6000000 numeros10millones.txt 3128036 >> busquedaABB.txt
@@ -135,7 +135,7 @@ echo Busqueda Lineal 6M >> busquedaABB.txt
 ./bAbb 6000000 numeros10millones.txt 2147470852 >> busquedaABB.txt
 ./bAbb 6000000 numeros10millones.txt 0 >> busquedaABB.txt
 
-echo Busqueda Lineal 7M >> busquedaABB.txt
+echo Busqueda ABB 7M >> busquedaABB.txt
 ./bAbb 7000000 numeros10millones.txt 322486 >> busquedaABB.txt
 ./bAbb 7000000 numeros10millones.txt 14700764 >> busquedaABB.txt
 ./bAbb 7000000 numeros10millones.txt 3128036 >> busquedaABB.txt
@@ -157,7 +157,7 @@ echo Busqueda Lineal 7M >> busquedaABB.txt
 ./bAbb 7000000 numeros10millones.txt 2147470852 >> busquedaABB.txt
 ./bAbb 7000000 numeros10millones.txt 0 >> busquedaABB.txt
 
-echo Busqueda Lineal 8M >> busquedaABB.txt
+echo Busqueda ABB 8M >> busquedaABB.txt
 ./bAbb 8000000 numeros10millones.txt 322486 >> busquedaABB.txt
 ./bAbb 8000000 numeros10millones.txt 14700764 >> busquedaABB.txt
 ./bAbb 8000000 numeros10millones.txt 3128036 >> busquedaABB.txt
@@ -179,7 +179,7 @@ echo Busqueda Lineal 8M >> busquedaABB.txt
 ./bAbb 8000000 numeros10millones.txt 2147470852 >> busquedaABB.txt
 ./bAbb 8000000 numeros10millones.txt 0 >> busquedaABB.txt
 
-echo Busqueda Lineal 9M >> busquedaABB.txt
+echo Busqueda ABB 9M >> busquedaABB.txt
 ./bAbb 9000000 numeros10millones.txt 322486 >> busquedaABB.txt
 ./bAbb 9000000 numeros10millones.txt 14700764 >> busquedaABB.txt
 ./bAbb 9000000 numeros10millones.txt 3128036 >> busquedaABB.txt
@@ -201,7 +201,7 @@ echo Busqueda Lineal 9M >> busquedaABB.txt
 ./bAbb 9000000 numeros10millones.txt 2147470852 >> busquedaABB.txt
 ./bAbb 9000000 numeros10millones.txt 0 >> busquedaABB.txt
 
-echo Busqueda Lineal 10M >> busquedaABB.txt
+echo Busqueda ABB 10M >> busquedaABB.txt
 ./bAbb 10000000 numeros10millones.txt 322486 >> busquedaABB.txt
 ./bAbb 10000000 numeros10millones.txt 14700764 >> busquedaABB.txt
 ./bAbb 10000000 numeros10millones.txt 3128036 >> busquedaABB.txt
