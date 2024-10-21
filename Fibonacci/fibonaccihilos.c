@@ -2,7 +2,7 @@
 #include <pthread.h>
 #include <string.h>
 #include <stdlib.h>
-//#include "tiempo.h"
+#include "tiempo.h"
 // Se hce uso de una estructura para poder partir las operaciones y definir el inicio y final de los segmentos de cada hilo
 /*
 Compilacion: gcc fibonacci.c -o fibonacci
