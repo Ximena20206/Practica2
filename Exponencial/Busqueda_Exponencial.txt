@@ -1,0 +1,420 @@
+1 millon
+Busqueda del numero 322486:
+real (Tiempo total)  0.0000015000 s
+Busqueda del numero 14700764:
+real (Tiempo total)  0.0000022000 s
+Busqueda del numero 3128036:
+real (Tiempo total)  0.0000010999 s
+Busqueda del numero 6337399:
+real (Tiempo total)  0.0000010000 s
+Busqueda del numero 61396:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 10393545:
+real (Tiempo total)  0.0000013000 s
+Busqueda del numero 2147445644:
+real (Tiempo total)  0.0000012000 s
+Busqueda del numero 1295390003:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 450057883:
+real (Tiempo total)  0.0000003000 s
+Busqueda del numero 187645041:
+real (Tiempo total)  0.0000008000 s
+Busqueda del numero 1980098116:
+real (Tiempo total)  0.0000004999 s
+Busqueda del numero 152503:
+real (Tiempo total)  0.0000003000 s
+Busqueda del numero 5000:
+real (Tiempo total)  0.0000003000 s
+Busqueda del numero 1493283650:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 214826:
+real (Tiempo total)  0.0000005000 s
+Busqueda del numero 1843349527:
+real (Tiempo total)  0.0000005999 s
+Busqueda del numero 1360839354:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 2109248666:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 2147470852:
+real (Tiempo total)  0.0000003000 s
+Busqueda del numero 0:
+real (Tiempo total)  0.0000001000 s
+
+
+2 millones
+Busqueda del numero 322486:
+real (Tiempo total)  0.0000018000 s
+Busqueda del numero 14700764:
+real (Tiempo total)  0.0000025000 s
+Busqueda del numero 3128036:
+real (Tiempo total)  0.0000012000 s
+Busqueda del numero 6337399:
+real (Tiempo total)  0.0000014000 s
+Busqueda del numero 61396:
+real (Tiempo total)  0.0000011000 s
+Busqueda del numero 10393545:
+real (Tiempo total)  0.0000020999 s
+Busqueda del numero 2147445644:
+real (Tiempo total)  0.0000025999 s
+Busqueda del numero 1295390003:
+real (Tiempo total)  0.0000014000 s
+Busqueda del numero 450057883:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 187645041:
+real (Tiempo total)  0.0000021000 s
+Busqueda del numero 1980098116:
+real (Tiempo total)  0.0000005000 s
+Busqueda del numero 152503:
+real (Tiempo total)  0.0000008000 s
+Busqueda del numero 5000:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 1493283650:
+real (Tiempo total)  0.0000013000 s
+Busqueda del numero 214826:
+real (Tiempo total)  0.0000010000 s
+Busqueda del numero 1843349527:
+real (Tiempo total)  0.0000012999 s
+Busqueda del numero 1360839354:
+real (Tiempo total)  0.0000012999 s
+Busqueda del numero 2109248666:
+real (Tiempo total)  0.0000013000 s
+Busqueda del numero 2147470852:
+real (Tiempo total)  0.0000005000 s
+Busqueda del numero 0:
+real (Tiempo total)  0.0000001000 s
+
+3 millones
+Busqueda del numero 322486:
+real (Tiempo total)  0.0000018000 s
+Busqueda del numero 14700764:
+real (Tiempo total)  0.0000021000 s
+Busqueda del numero 3128036:
+real (Tiempo total)  0.0000013000 s
+Busqueda del numero 6337399:
+real (Tiempo total)  0.0000015000 s
+Busqueda del numero 61396:
+real (Tiempo total)  0.0000010000 s
+Busqueda del numero 10393545:
+real (Tiempo total)  0.0000015000 s
+Busqueda del numero 2147445644:
+real (Tiempo total)  0.0000011999 s
+Busqueda del numero 1295390003:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 450057883:
+real (Tiempo total)  0.0000014000 s
+Busqueda del numero 187645041:
+real (Tiempo total)  0.0000015000 s
+Busqueda del numero 1980098116:
+real (Tiempo total)  0.0000004999 s
+Busqueda del numero 152503:
+real (Tiempo total)  0.0000007000 s
+Busqueda del numero 5000:
+real (Tiempo total)  0.0000002000 s
+Busqueda del numero 1493283650:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 214826:
+real (Tiempo total)  0.0000005000 s
+Busqueda del numero 1843349527:
+real (Tiempo total)  0.0000003999 s
+Busqueda del numero 1360839354:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 2109248666:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 2147470852:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 0:
+real (Tiempo total)  0.0000001000 s
+
+4 millones
+Busqueda del numero 322486:
+real (Tiempo total)  0.0000016000 s
+Busqueda del numero 14700764:
+real (Tiempo total)  0.0000020000 s
+Busqueda del numero 3128036:
+real (Tiempo total)  0.0000008000 s
+Busqueda del numero 6337399:
+real (Tiempo total)  0.0000043999 s
+Busqueda del numero 61396:
+real (Tiempo total)  0.0000009000 s
+Busqueda del numero 10393545:
+real (Tiempo total)  0.0000018000 s
+Busqueda del numero 2147445644:
+real (Tiempo total)  0.0000014000 s
+Busqueda del numero 1295390003:
+real (Tiempo total)  0.0000005000 s
+Busqueda del numero 450057883:
+real (Tiempo total)  0.0000015000 s
+Busqueda del numero 187645041:
+real (Tiempo total)  0.0000027000 s
+Busqueda del numero 1980098116:
+real (Tiempo total)  0.0000009000 s
+Busqueda del numero 152503:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 5000:
+real (Tiempo total)  0.0000003000 s
+Busqueda del numero 1493283650:
+real (Tiempo total)  0.0000007000 s
+Busqueda del numero 214826:
+real (Tiempo total)  0.0000008000 s
+Busqueda del numero 1843349527:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 1360839354:
+real (Tiempo total)  0.0000008000 s
+Busqueda del numero 2109248666:
+real (Tiempo total)  0.0000005999 s
+Busqueda del numero 2147470852:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 0:
+real (Tiempo total)  0.0000002000 s
+
+5 millones
+Busqueda del numero 322486:
+real (Tiempo total)  0.0000017000 s
+Busqueda del numero 14700764:
+real (Tiempo total)  0.0000027000 s
+Busqueda del numero 3128036:
+real (Tiempo total)  0.0000013000 s
+Busqueda del numero 6337399:
+real (Tiempo total)  0.0000015000 s
+Busqueda del numero 61396:
+real (Tiempo total)  0.0000010000 s
+Busqueda del numero 10393545:
+real (Tiempo total)  0.0000020999 s
+Busqueda del numero 2147445644:
+real (Tiempo total)  0.0000018000 s
+Busqueda del numero 1295390003:
+real (Tiempo total)  0.0000013000 s
+Busqueda del numero 450057883:
+real (Tiempo total)  0.0000023000 s
+Busqueda del numero 187645041:
+real (Tiempo total)  0.0000025000 s
+Busqueda del numero 1980098116:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 152503:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 5000:
+real (Tiempo total)  0.0000003000 s
+Busqueda del numero 1493283650:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 214826:
+real (Tiempo total)  0.0000004999 s
+Busqueda del numero 1843349527:
+real (Tiempo total)  0.0000005000 s
+Busqueda del numero 1360839354:
+real (Tiempo total)  0.0000037000 s
+Busqueda del numero 2109248666:
+real (Tiempo total)  0.0000005000 s
+Busqueda del numero 2147470852:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 0:
+real (Tiempo total)  0.0000002000 s
+
+6 millones 
+Busqueda del numero 322486:
+real (Tiempo total)  0.0000017000 s
+Busqueda del numero 14700764:
+real (Tiempo total)  0.0000016000 s
+Busqueda del numero 3128036:
+real (Tiempo total)  0.0000012999 s
+Busqueda del numero 6337399:
+real (Tiempo total)  0.0000011000 s
+Busqueda del numero 61396:
+real (Tiempo total)  0.0000008000 s
+Busqueda del numero 10393545:
+real (Tiempo total)  0.0000010000 s
+Busqueda del numero 2147445644:
+real (Tiempo total)  0.0000018000 s
+Busqueda del numero 1295390003:
+real (Tiempo total)  0.0000008000 s
+Busqueda del numero 450057883:
+real (Tiempo total)  0.0000019000 s
+Busqueda del numero 187645041:
+real (Tiempo total)  0.0000021000 s
+Busqueda del numero 1980098116:
+real (Tiempo total)  0.0000010000 s
+Busqueda del numero 152503:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 5000:
+real (Tiempo total)  0.0000002000 s
+Busqueda del numero 1493283650:
+real (Tiempo total)  0.0000004999 s
+Busqueda del numero 214826:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 1843349527:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 1360839354:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 2109248666:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 2147470852:
+real (Tiempo total)  0.0000003999 s
+Busqueda del numero 0:
+real (Tiempo total)  0.0000001000 s
+
+7 millones
+Busqueda del numero 322486:
+real (Tiempo total)  0.0000018000 s
+Busqueda del numero 14700764:
+real (Tiempo total)  0.0000022000 s
+Busqueda del numero 3128036:
+real (Tiempo total)  0.0000008000 s
+Busqueda del numero 6337399:
+real (Tiempo total)  0.0000007000 s
+Busqueda del numero 61396:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 10393545:
+real (Tiempo total)  0.0000012000 s
+Busqueda del numero 2147445644:
+real (Tiempo total)  0.0000011000 s
+Busqueda del numero 1295390003:
+real (Tiempo total)  0.0000015000 s
+Busqueda del numero 450057883:
+real (Tiempo total)  0.0000011000 s
+Busqueda del numero 187645041:
+real (Tiempo total)  0.0000013000 s
+Busqueda del numero 1980098116:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 152503:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 5000:
+real (Tiempo total)  0.0000003000 s
+Busqueda del numero 1493283650:
+real (Tiempo total)  0.0000014000 s
+Busqueda del numero 214826:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 1843349527:
+real (Tiempo total)  0.0000005000 s
+Busqueda del numero 1360839354:
+real (Tiempo total)  0.0000017000 s
+Busqueda del numero 2109248666:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 2147470852:
+real (Tiempo total)  0.0000004000 s
+Busqueda del numero 0:
+real (Tiempo total)  0.0000001000 s
+
+8 millones
+Busqueda del numero 322486:
+real (Tiempo total)  0.0000039000 s
+Busqueda del numero 14700764:
+real (Tiempo total)  0.0000024000 s
+Busqueda del numero 3128036:
+real (Tiempo total)  0.0000010000 s
+Busqueda del numero 6337399:
+real (Tiempo total)  0.0000015000 s
+Busqueda del numero 61396:
+real (Tiempo total)  0.0000007000 s
+Busqueda del numero 10393545:
+real (Tiempo total)  0.0000014000 s
+Busqueda del numero 2147445644:
+real (Tiempo total)  0.0000024000 s
+Busqueda del numero 1295390003:
+real (Tiempo total)  0.0000029000 s
+Busqueda del numero 450057883:
+real (Tiempo total)  0.0000018000 s
+Busqueda del numero 187645041:
+real (Tiempo total)  0.0000018000 s
+Busqueda del numero 1980098116:
+real (Tiempo total)  0.0000016000 s
+Busqueda del numero 152503:
+real (Tiempo total)  0.0000010000 s
+Busqueda del numero 5000:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 1493283650:
+real (Tiempo total)  0.0000028000 s
+Busqueda del numero 214826:
+real (Tiempo total)  0.0000008000 s
+Busqueda del numero 1843349527:
+real (Tiempo total)  0.0000016000 s
+Busqueda del numero 1360839354:
+real (Tiempo total)  0.0000029000 s
+Busqueda del numero 2109248666:
+real (Tiempo total)  0.0000014000 s
+Busqueda del numero 2147470852:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 0:
+real (Tiempo total)  0.0000002000 s
+
+9 millones
+Busqueda del numero 322486:
+real (Tiempo total)  0.0000028000 s
+Busqueda del numero 14700764:
+real (Tiempo total)  0.0000053000 s
+Busqueda del numero 3128036:
+real (Tiempo total)  0.0000020000 s
+Busqueda del numero 6337399:
+real (Tiempo total)  0.0000026000 s
+Busqueda del numero 61396:
+real (Tiempo total)  0.0000009000 s
+Busqueda del numero 10393545:
+real (Tiempo total)  0.0000030999 s
+Busqueda del numero 2147445644:
+real (Tiempo total)  0.0000023000 s
+Busqueda del numero 1295390003:
+real (Tiempo total)  0.0000021999 s
+Busqueda del numero 450057883:
+real (Tiempo total)  0.0000018000 s
+Busqueda del numero 187645041:
+real (Tiempo total)  0.0000050000 s
+Busqueda del numero 1980098116:
+real (Tiempo total)  0.0000009000 s
+Busqueda del numero 152503:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 5000:
+real (Tiempo total)  0.0000003000 s
+Busqueda del numero 1493283650:
+real (Tiempo total)  0.0000017000 s
+Busqueda del numero 214826:
+real (Tiempo total)  0.0000009000 s
+Busqueda del numero 1843349527:
+real (Tiempo total)  0.0000019000 s
+Busqueda del numero 1360839354:
+real (Tiempo total)  0.0000020000 s
+Busqueda del numero 2109248666:
+real (Tiempo total)  0.0000008000 s
+Busqueda del numero 2147470852:
+real (Tiempo total)  0.0000006000 s
+Busqueda del numero 0:
+real (Tiempo total)  0.0000002000 s
+
+10 millones
+Busqueda del numero 322486:
+real (Tiempo total)  0.0000029000 s
+Busqueda del numero 14700764:
+real (Tiempo total)  0.0000054000 s
+Busqueda del numero 3128036:
+real (Tiempo total)  0.0000023000 s
+Busqueda del numero 6337399:
+real (Tiempo total)  0.0000025000 s
+Busqueda del numero 61396:
+real (Tiempo total)  0.0000007000 s
+Busqueda del numero 10393545:
+real (Tiempo total)  0.0000036000 s
+Busqueda del numero 2147445644:
+real (Tiempo total)  0.0000017999 s
+Busqueda del numero 1295390003:
+real (Tiempo total)  0.0000022000 s
+Busqueda del numero 450057883:
+real (Tiempo total)  0.0000047999 s
+Busqueda del numero 187645041:
+real (Tiempo total)  0.0000026000 s
+Busqueda del numero 1980098116:
+real (Tiempo total)  0.0000018000 s
+Busqueda del numero 152503:
+real (Tiempo total)  0.0000008000 s
+Busqueda del numero 5000:
+real (Tiempo total)  0.0000002000 s
+Busqueda del numero 1493283650:
+real (Tiempo total)  0.0000017000 s
+Busqueda del numero 214826:
+real (Tiempo total)  0.0000005000 s
+Busqueda del numero 1843349527:
+real (Tiempo total)  0.0000018000 s
+Busqueda del numero 1360839354:
+real (Tiempo total)  0.0000017000 s
+Busqueda del numero 2109248666:
+real (Tiempo total)  0.0000016000 s
+Busqueda del numero 2147470852:
+real (Tiempo total)  0.0000007000 s
+Busqueda del numero 0:
+real (Tiempo total)  0.0000001000 s
